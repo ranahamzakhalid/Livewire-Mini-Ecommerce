@@ -16,7 +16,7 @@
                     <option value="{{ $category->id }}">{{ $category->name }}</option>
 
                 @endforeach
-
+    
             </select>
 
           <label for="description" class="form_label mt-2">Description</label>
